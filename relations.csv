@@ -1,0 +1,8 @@
+personId,collegeId,designation
+1,1,student
+2,1,labAsst
+2,3,lecturer
+4,2,lecturer
+5,2,librarian
+4,4,professor
+6,4,principle
