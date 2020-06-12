@@ -1,7 +1,7 @@
 personId,name,born,city,collegeId,designation
 1,akhila,1996,Guntur,1,student,labAsst
-2,kiranmai,1997,Chennai,1,3,labAsst,lecturer
+2,kiranmai,1997,Chennai,1 3,labAsst lecturer
 3,mounika,1994,Bangalore,,
-4,lokesh,1995,AP,2,4,lecturer,professor
+4,lokesh,1995,AP,2 4,lecturer professor
 5,shiva,1993,warangal,2,librarian
 6,sandhya,1998,Hyderabad,4,principle
