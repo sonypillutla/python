@@ -1,5 +1,5 @@
-collegeId,college,location
-1,VVIT,Guntur
-2,TKR,Hyderabad
-3,CBIT,Chennai
-4,KLU,AP
+collegeId,college,location,personId,designation
+1,VVIT,Guntur,,
+2,TKR,Hyderabad,,
+3,CBIT,Chennai,2,lecturer
+4,KLU,AP,4,professor
