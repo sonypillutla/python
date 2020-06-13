@@ -1,4 +1,4 @@
-personId,name,born,city,collegeId,designation
+personId,name,born,city,collegeId,desig
 1,akhila,1996,Guntur,1,student
 2,kiranmai,1997,Chennai,"1,3","labAsst,lecturer"
 3,mounika,1994,Bangalore,,
