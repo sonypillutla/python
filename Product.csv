@@ -1,0 +1,431 @@
+EntityID,EntityType,Name,Description,Country (ISO Abbreviation),ProductType,WebsiteURL,PhotoGallery,Desired CTA Text 1,Desired CTA Link 1,Desired CTA Text 2,Desired CTA Link 2,ProductCategory,AnswersKeywords,Related Locations,Related XXX,News_ID,Products_ID,Resources_ID,FAQ_ID,NewsConfidence,FAQConfidence
+products_0,product,Flex,Mobile payments. Fast and simple,,Devices,https://clover.com/shop/clover-flex,,,,,,,,,,,,,,,
+products_1,product,Go,"Accept swipe, dip, and tap payments from your phone",,Devices,https://clover.com/shop/clover-go?0%5BbackgroundSize%5D=contain&0%5BbackgroundColor%5D=%23e5f9f8&0%5BbackgroundPosition%5D=right%20bottom&1%5BbackgroundSize%5D=auto%2085%25&1%5BbackgroundColor%5D=%23e5f9f8&1%5BbackgroundPosition%5D=right%20bottom,,,,,,,,,,,,,,,
+products_2,product,Get a Clover Account,Start taking payments today. No hardware required.,,Devices,https://clover.com/pos-systems/clover-account-payments,,,,,,,,,,,,,,,
+products_3,product,Station Pro,A powerful point of sale for both sides of the counter,,Devices,https://clover.com/pos-systems/clover-station-pro,,,,,,,,,,,,,,,
+products_4,product,Mini,A complete point of sale in one compact package,,Devices,https://clover.com/shop/clover-mini,,,,,,,,,,,,,,,
+products_5,product,Station,"Our largest, fastest point of sale system",,Devices,https://clover.com/shop/clover-station,,,,,,,,,,,,,,,
+products_6,product,Station,Station for full-service restaurant,,Devices,https://clover.com/shop/product/clover-station-table-service/with-printer,,,,,,,,,,,,,,,
+products_7,product,Mini,Mini for full-service restaurant,,Devices,https://clover.com/shop/product/mini-table-service/lte,,,,,,,,,,,,,,,
+products_8,product,Analytics | BusinessQ,"Analytics BusinessQ app is unparalleled in helping merchants turn data into insights and action. 
+Tailored for business owners, managers, accountants, controllers, suitable for any business type.
+Join the merchants using this app to grow their revenue using data-driven insights - install free today!  
+
+*TWO TYPES OF REPORTS
+- Very fast overview reports for quick monitoring based on payments
+- Very detailed reports based on orders: for tracking every aspect of Clover business and multidimensional analyses
+
+*MULTI-LOCATION
+- If you have more locations, you can see them all integrated into one report. We offer discounts for 5+ locations.
+
+*UNDERSTAND YOUR BUSINESS
+- Carefully designed and predefined reports, charts and business dashboards for everyday use
+- Create your own reports
+- Receive your favorite report on email
+
+Below are just a few business dimensions that you can track in the app:
+Order details and type, profit, employee, tender, device, customer, location, item, category, label, SKU, modifiers, daypart, day, day in a week, hourly sales distribution, day vs day, 2 periods comparisons, stock values...
+
+*DIAGNOSTICS
+- Analyze overpaid / underpaid orders, get access to 60+ columns per order for deep analyses
+
+*DETAILED EXPORTS
+Use maximum detailed excel/csv exports for integrations with your ERP/accounting/CRM systems
+
+*ADDITIONAL: 
+- use Analytics to define Employees Commission percentages, even per category sold
+
+*INTEGRATIONS
+If you are using MY REWARDS app (or are looking for a great loyalty app - https://www.clover.com/appmarket/apps/6XZ2KXFEVQPKT?clientCountry=US ) you will be happy to know that we have direct integration with them! 
+
+A word from our customers:
+https://businessq-software.com/analytics-for-clover-customers/
+
+Additional info about App Tiers. 
+https://businessq-software.com/analytics-for-clover-faq/
+
+By installing Analytics App you agree to our privacy policy.",,app,https://www.clover.com/appmarket/apps/QXVQ4MHDH37DP,https://www.clover.com/v2/image/AnalyticsappIcon.png_en_US_6337817205599204836_80x80.png,,,,,Understand Your Business,"report,business,details,use",,,,,,,,
+products_9,product,BigCommerce,"Get started with a free 30-day trial to experience BigCommerce, the ecommerce solution that helps growing brands grow even faster.
+
+Retailers on BigCommerce grow at 28% year over year on average, nearly twice as fast as the industry standard. Merchants choose BigCommerce for our stunning storefront templates, market-leading selling tools, and enterprise-grade site hosting and uptime.
+
+Clover and BigCommerce make it easier than ever to spin up a new online store from your offline product catalogs. You'll be able to connect your Clover inventory catalog to seamlessly manage sales and inventory both online and in-person.
+
+Plus, your Clover payment gateway is integrated with BigCommerce so you’ll be able to see your transactions offline and online, all through Clover.
+
+With BigCommerce, you can easily sell your products across Instagram, Amazon, eBay and more, all a few clicks away after connecting your Clover account.
+
+The best part? Our integration with Clover is free to use across all plan types. 
+
+Start your 30-day trial of BigCommerce for free. With our Clover integration, we'll help you easily get your products online. Visit www.bigcommerce.com/clover to get started.",,app,https://www.clover.com/appmarket/apps/W2XYFR4N5W1BY,https://www.clover.com/v2/image/b-logo_200x200.png_en_US_3378705662236101365_80x80.png,,,,,Sell Online,"clover,bigcommerce,online,sell,grow",,,,,,,,
+products_10,product,Business Insurance,"AP Intego finds the best priced coverages to meet your needs.
+Call 866.259.7773
+
+AP Intego works with you to understand what makes your small business unique, and then we shop across carriers to find the best-priced coverages to meet your needs. Thanks to our innovative process, getting covered is easy! And we guarantee a full range of support and service after your policy purchase.",,app,https://www.clover.com/appmarket/apps/TECD2V4CPKC44,https://www.clover.com/v2/image/AP_INTEGO_Logo_200x200.png_en_US_6167070640025135530_80x80.png,,,,,"Must-Have Apps,Save on Business Expenses,New & Notable","business,intego,priced,process getting",,,,,,,,
+products_11,product,COVID-19 Resources,"Nav has partnered with Clover to give merchants access to the FREE Nav app on Clover. The Nav app automatically appears on your Clover web dashboard as well as Station, Mini and Flex devices. 
+ 
+At Nav we know that these are uncertain times, and we’re here to help and support you however we can.
+ 
+In addition to providing you with access to your business credit scores and summary reports from Dun & Bradstreet and Experian, we’ve added additional resources and tools in the Nav app on Clover to help you understand COVID-19 financing options and CARES Act SBA relief loans--all for FREE.
+ 
+In the FREE Nav app on Clover, you have access to:
+ 
+COVID-19 resource center — Stay up to date with the latest information and tools about COVID-19 financing options and the CARES Act SBA loans.
+CARES Act SBA Loan calculator — Find out how much your business may qualify for with the new Paycheck Protection Loans and get ready to apply.
+Your business credit scores from Dun & Bradstreet and Experian — Like personal credit, your business has its own credit scores and reports. Understand, monitor and build your business credit. Get insights on what’s impacting your scores, such as tradelines, judgements and liens, so you can dispute any inaccurate info that may be hurting your scores. Plus, see score trends and get standard alerts when changes occur on your reports.
+Join over 1.3 million business owners who access credit and financing insights through Nav.
+
+There’s no installation or setup. Simply click “connect” and you’re ready to go!",,app,https://www.clover.com/appmarket/apps/2YQXJ5HEDGD7E,https://www.clover.com/v2/image/navlogo.png_8538630606022466050_80x80.png,,,,,"Must-Have Apps,Save on Business Expenses","loan,business credit,reports,score",,,,,,,,
+products_12,product,Cash Discount,"Cash Discount to customers 
+Lower processing fees, finally a tool to reduce your overall costs and truly affect your bottom line. Cash Discount offers the small business owner a way to recoup much of the cost associated with accepting credit card payment (Visa, MasterCard, Discover & American Express) while offering a discount to Cash, debit cards & check payments.
+
+Works with the following Clover Service Plans: 
+Register Lite and the Register Plan
+Ex: 1. Item sale price is $104.00 Using the Cash Discount app when a customer purchases an item with credit card the item sale price will be $104.00 If they pay with cash, checks or debit the customer will receive cash discount of $4.00 making the final sale price $100.00
+Ex: 2. Merchant processed $100,000 per month in Credit Cards; Incurring processing fees of  approximately $4000.00  Using Cash Discount App the merchant should be able to recover the majority of the processing fees. Merchant will provide  the customer  a discount for payment made by Cash, Checks and Debit. 
+
+ 
+The app works very well for various industry types;
+Jewelry Stores, Liquor Stores, Lawyers, Restaurants, Vapor Shops, Flower Shops, Cafés,  Locksmith, Wholesalers, Delivery Services, Boutiques, Dr. Offices, Dentist, X-ray, Postal Shops,  Gift Shops, Tours, Clothing Stores, Nail Salons, Spas, Gas Stations, Beauty Salons, Night Clubs, Grocery Stores, Cosmetics Kiosk, Plumbing Services, Smoke Shops, Equipment Rentals, Ice Cream, Super Market, Pet Grooming Services, Furniture Stores, Car Wash, Animal Hospital, Fireworks, Short Term Rentals, Tattoo Shops, Food Trucks, Limo Services, Taxi's, Perfume Stores, Charities, Towing Companies, Cleaning Services, Fast Clinics, Tire , Carpet Cleaning, Auto Oil Change, Gyms
+Edit the  Customer Rewards  to Dollars ratio inside the integrated Rewards
+Included Bonus Features: Rewards Program 200SMS, Product  Labeling Module, Invoicing customers
+Multi-location
+ISO's  white label solution available contact support",,app,https://www.clover.com/appmarket/apps/WXVDFZJ8W013A,https://www.clover.com/v2/image/image1.jpg_3965345468015782110_80x80.jpg,,,,,Cash Management,"services,stores,shops,customer,rewards",,,,,,,,
+products_13,product,Cash Track,"The Cash Track app enables you to track and monitor cash out and cash in from employees or registers. You can also record tips and any other adjustments.
+
+Here's how you can use the Cash Track app:
+1. At the beginning of the shift, record how much cash you assign to each employee and register.
+2. During the shift, monitor current cash on hand for each employee and register.
+3. At the end of the shift, reconcile the employee's count and the manager's count as well as print shift report.
+4. Receive daily shift report through email.
+5. Access daily shift report through web dashboard. *
+6. Restaurants can also calculate tips due.
+
+The Cash Track app is integrated with the rest of your information in Clover.
+
+* Requires Multi Store Reporting app.",,app,https://www.clover.com/appmarket/apps/K1R02G57P171Y,https://www.clover.com/v2/image/002_Clover_CashTrackIcon2_2760487742134714629_80x80.png,,,,,Cash Management,"shift,reporting,dashboard,app,daily",,,,,,faq_0,,0.921
+products_14,product,Customer Upload,"Easily upload or import your existing customer database or list using this app! 
+
+Do you have a customer database that you need to enter into Clover? Customer Upload is the easiest way to import your existing customer database to Clover! Upload a CSV file using Customer Upload and your customers' profiles will be shown in the Clover Customers app!
+
+Need full-service? We will do the entire process for you for an additional $19.98, contact us at help@abreezetech.com for details
+
+Bring your existing customer data to your new Clover quickly and easily",,app,https://www.clover.com/appmarket/apps/Z6GMBJ5HCBEQA,https://www.clover.com/v2/image/CustomerUpload_2773529145744810524_80x80.jpg,,,,,"New & Notable,Customer Management","customers,clover,upload,app",,,,,,,,
+products_15,product,DAVO Automated Sales Tax,"DAVO Sales Tax automatically sets your sales tax aside daily using sales data from Clover. DAVO then files and pays sales tax to the state, on time and in full. Guaranteed.
+
+Features include:
+• Automatically sets aside Sales Tax daily
+• Files & pays on time and in full. Guaranteed.
+• First month free
+• One flat monthly fee – no hidden charges
+• Easy set-up through Clover with live support
+• State refunds for on time filing where available
+• Storage of tax documents for future reference
+• English & Spanish support
+
+Click Connect above and never worry about sales tax again!",,app,https://www.clover.com/appmarket/apps/X4DFTCNWZ38GP,https://www.clover.com/v2/image/clover_app_marketplace_logo.png_en_US_1410073580471569367_80x80.png,,,,,Must-Have Apps,"support,sales,tax,monthly,aside",,,news_170,,,,0.933,
+products_16,product,Digital Loyalty,"Grow your business today with the easiest digital loyalty solution for Clover. With Loyalzoo, create and run your own loyalty program in under 2 minutes, and engage customers through points notifications and promotions delivered by SMS/text, email or push. Customers do not need to use an app to participate.
+
+Merchants who run their loyalty program with Loyalzoo grow revenues by 11% on average, by simply increasing customer retention, and without reducing margins.
+
+Loyalzoo is the best integrated loyalty system for Clover. It is headache free, with no training required.
+
+What makes us special:
+•  The only loyalty system for Clover with direct access from the Register app
+•  No more paper or plastic cards - completely digital loyalty solution
+•  Customers can join your loyalty program by giving you their email address/mobile number, by using a payment card or via the Loyalzoo app
+•  Sign customers up directly from your Clover, customer-facing Clover or tablet
+•  Automated points calculation (customers receive 1 point per dollar spent) in-store AND online (please get in touch if you have an e-commerce store or online ordering system)
+•  Send 2 Promotions per month (via SMS, email or push) to re-engage and pull customers back in-store, or upgrade to the promo add-on to send up to 4
+•  Handsfree marketing segments customers between “new”, VIP or “slipping away”, and automatically sends the right offer via email, SMS or push notification
+•  Customers created and managed from the Loyalzoo button are automatically synced with Clover contacts
+•  Free POS marketing material posted to you, to help you promote your new loyalty program
+•  Easily migrate customer data from competing loyalty systems (eg Fivestars, Appcard, Customer Connect, etc)
+•  Upload customer profile pictures
+•  Unlimited enrolled customers
+•  Supports multiple locations - points are shared among different stores
+
+Loyal zoo rewards you.",,app,https://www.clover.com/appmarket/apps/2VKM3WHYNBTYJ,https://www.clover.com/v2/image/appicon1320_3089786327297005443_80x80.png,,,,,Reach your Customers,"customer,loyalty,loyalzoo,point,marketing",,,,,,,,
+products_17,product,Easy Labels,"The Easy Labels app enables you to print each product's UPC-A, EAN-13 or EAN-8 barcode, price, unit, and name on labels to help you manage your Clover inventory and make customer checkout fast and efficient. It can generate UPC code for your own product.
+
+You can also adjust text font size and type as well as barcode size. +
+
+The Easy Labels app requires Brother QL-710W/QL-720NW/QL-800/QL-810W/QL-820NWB printer. 
+
+Brother QL-800 printer doesn't work with Clover Flex or Mobile.
+Please turn off ""Editor Lite"" light on the QL-800/810w printer and reboot Clover device once after connected the printer to its USB port.
+
+Supports the following label type/sizes: 
+
+. DK-2214 (0.47"" X 3.4"" or 12 mm x 86 mm)  for Jewelry label
+. DK-1221 (0.9"" X 0.9"" or 23 mm x 23 mm)  
+. DK-1204 (0.66"" x 2.1"" or 17 mm x 54 mm)
+. DK-1209 (1.1"" x 2.4"" or 29 mm x 62 mm)
+. DK-1201 (1.1"" x 3.5"" or 29 mm x 90 mm)
+. DK-1208 (1.4"" x 3.5"" or 38 mm x 90 mm)
+. DK-1202 (2.4"" x 3.9"" or 62 mm x 100 mm)
+. DK-2113 (2.4"" x 50' or 62mm x 15.2m) Clear Film Tape
+. DK-2210 (1.1"" or 29mm) Tape
+. DK-2205 (2.4"" x 50' or 62mm x 15.2m) Tape
+. DK-2211 (1.1"" or 29mm) White Film Tape
+. DK-2212 (2.4"" x 50' or 62mm x 15.2m) White Film Tape
+. DK-4205 (2.4"" x 100' or 62mm x 30.4m) Removable Tape
+. DK-2251 (2.4"" x 100' or 62mm x 30.4m) Black/Red on White Tape
+
+
+The Easy Labels app allows you to print labels for order items from Register. *(this feature doesn't work on Clover Mini/Flex 2nd Generation or Station Pro, use Order Labels app instead)
+
++ Requires Advanced Subscription.",,app,https://www.clover.com/appmarket/apps/KYJZVTERDATK6,https://www.clover.com/v2/image/ic_launcher-web_1515793995446358571_80x80.png,,,,,Organize Inventory,"label,clover,app,requires,barcode",,,,,,,,
+products_18,product,Inventory Management,"* 30-Day Full-Feature Free Trial PLUS 30-Day Additional Money Back Guarantee *
+
+* Paid Plans Start at Only $49 per month *
+
+Shopventory is the premium inventory management and optimization solution for Clover and includes the following features:
+
++ Live Customer Care Support - English, Spanish, French
++ Inventory optimization and stock control
++ Track profit margin by item, category, location your entire business
++ Configure multi-condition low inventory control alerts
++ Kits & Bundles creation (ideal for restaurants or food and service businesses)
++ Multiple location and warehouse management
++ User Access Control Management
++ Purchase Orders
++ Vendor Management
++ Barcode Label & Price Label Printing
++ Fast & Easy Stock Takes Wireless Barcode Scanner Solution
++ Free Barcode Scanning Mobile App (iOS & Android)
++ Free Dashboard Reporting Mobile App (iOS & Android)
++ Run detailed reports across date ranges, items, categories, and locations 
++ Interactive customizable dashboards
++ Inspect current and historical shop inventory levels
++ Monitor your inventory's total value at any time
++ Catalog item and SKU creation, editing and photos
++ Identify and track slow moving inventory
++ Shopify eCommerce Integration
++ BigCommerce eCommerce Integration
++ WooCommerce eCommerce Integration
++ Quickbooks Accounting Integration with Daily Sync
++ Bulk Upload Tool Set for Easy Setup or Updates
+
+Shopventory is more than just inventory tracking. We monitor the health of your entire business by helping with shrinkage, stocking, cash flow, profitability, mission control, employee management and more. 
+
+Sign up today for your 30-day free trial of Shopventory backed by a 30-day money-back guarantee - that's 60 days of Shopventory at no risk!",,app,https://www.clover.com/appmarket/apps/N2G91QZ007GTP,https://www.clover.com/v2/image/3373167975202b599aa5b0a26b37cad7_42672316893236972_80x80.png,,,,,"Understand Your Business,Organize Inventory","inventory management,control,free,creation",,,,,,,,
+products_19,product,"InvoiceASAP for Payments Plus & Register Lite, QuickBooks & Xero","Easy Invoicing and payments for any business. 
+Great for Field Service or any business that uses invoices.
+
+Syncs with Accounting:
+QuickBooks Desktop, QuickBooks Online and Xero.  Sync transactions, Customers and Inventory - everything syncs!
+
+One app that does it all.
+Invoicing, Payments, Inventory Management, Customer Management and much more!
+
+Works with Clover Devices  & All Apple/Android Mobile Devices.  Use InvoiceASAP on your Clover, any Apple or Android mobile device - or from your computer on the InvoiceASAP Dashboard.
+
+Create professional invoices and accept credit card payment online via email or directly on a Clover device.
+
+Manage Customers & Great Reporting.
+QuickBooks® & Xero Compatible - Sync Your Data, No Double Entry.
+
+Featured in: The WSJ, TechCrunch, ZDNet, Reuters, PC Magazine, Yahoo Finance, Business Wire, The Phoenix Business Journal and many more.
+
+Works with your merchant account for credit card payments!
+
+FEATURES
+· Signature capture
+· Accounting integration
+· Add your logo
+· Powerful reporting & customer management
+· Manage multiple users & teams in the field",,app,https://www.clover.com/appmarket/apps/PQYN23GYZ6RSJ,https://www.clover.com/v2/image/New-iOS-App-icon-200x200_80x80.png,,,,,Invoicing,"business,payment,quickbooks,invoices,manage",,,,,,,,
+products_20,product,InvoiceAble,"Create and send professional invoices via email or Text message. An included pay now link allows your clients to pay quickly and easily. After installing InvoiceAble, you will have a new ""Invoice"" button in your register as a payment method. From there, you will be able to select a customer, and send the invoice via email or text.
+
+InvoiceAble integrates with your Clover customer database, so there is no need to maintain multiple sets of data. We also use the same credit card processing account which is utilized by your Clover device.
+
+IMPORTANT NOTE: WE NOW SUPPORT TAX REMOVAL and ITEM OR WHOLE TICKET DISCOUNTING. 
+
+Works with Register, Register Lite, and Payments Plus.",,app,https://www.clover.com/appmarket/apps/76X160VB37Q0W,https://www.clover.com/v2/image/Refund2-200_4228812131424245557_80x80.png,,,,,Invoicing,"invoice,tax,discounting,payments,multiple",,,,,,,,
+products_21,product,Order Paper,"Order Paper allows you to order paper with just three clicks! All you have to do is choose quantity and confirm your shipping address and paper will be shipped to your door. You are billed through the app so there is no need to even enter in your payment information!
+
+Use this app to order paper for Clover Flex, Clover Mini, Clover Mobile, Clover Station and Clover Kitchen Printers (Single Ply, 2-Ply and Ink Ribbons)
+
+**All orders ship for free**
+
+**$13 savings on thermal rolls compared to Staples**",,app,https://www.clover.com/appmarket/apps/H73STZ3S0S4EE,https://www.clover.com/v2/image/paperroll_icon_4257697580511927830_80x80.png,,,,,Must-Have Apps,"clover,information,rolls,ship,paper",,,news_533,,,,0.903,
+products_22,product,Payroll,"3-months of free payroll processing for Clover merchants,
+Call now 844-745-9470
+
+Gusto makes payroll easy and affordable. That’s the reason more than 100,000 small businesses nationwide choose Gusto. Gusto is directly integrated with Clover. 
+
+Download today and setup & run payroll directly from your device*. 
+
+Gusto integrates with leading time-tracking systems including Homebase; automatically syncing employee hours to save time and reduce errors.
+>Pay employees and contractors through direct deposit or check.
+>Gusto automatically calculates, files, and remits your federal, state and local payroll taxes, as well as W-2s, 1099s.
+>Unlimited payrolls, all 50 states, and direct deposit come standard
+
+All included in a monthly price of $39 + $6 per employee, call now for more information 844-745-9470
+
+*Station 2018 and Mini v2 supported, other devices will need web browser.",,app,https://www.clover.com/appmarket/apps/VDVMYKGT244CP,https://www.clover.com/v2/image/Payroll_en_US_3057283632293300742_80x80.png,,,,,"Must-Have Apps,Save on Business Expenses,Manage your Employees","payrolls,gusto,automatically,time,employees",,,,,,,,
+products_23,product,Pointy,"Introducing Pointy, your instant connection to more local customers.  
+
+Scan your in-store products with Clover and watch them organically appear online for local people to find.  
+
+Pointy x Clover integration: 
+Pointy seamlessly integrates with Clover to automatically upload your store’s inventory online. Download the app and follow the instructions to claim your free Pointy page. It takes less than a minute to get set up. 
+
+Why thousands of retailers love Pointy: 
+• Hassle-free integration with Clover 
+• Easily meet today’s shopping demands  
+• Great way to reach new customers
+• Drives more in-store sales
+
+""We hadn't really spent a lot of time or money building an online presence for our products. We thought Pointy would be an easy way to broaden our horizons online."" - Taylor Kopf, Cognition Cyclery
+
+Additional information: 
+Pointy integrates with your Clover POS by collecting all of your products’ barcode numbers (UPC/EAN). We then find an image and description to match each one. Therefore, for Pointy to work well, we need access to your Clover’s inventory and stock levels. Your store’s data is important to us and we ensure that it is protected.",,app,https://www.clover.com/appmarket/apps/8DF14T9WGQM96,https://www.clover.com/v2/image/pointy_bird_260_7677644045898696557_80x80.png,,,,,Sell Online,"pointy,online,customers,integrates,clover",,,,,,,,
+products_24,product,QuickBooks by Commerce Sync,"Commerce Sync is your automated bookkeeper, transferring your sales into QuickBooks and Xero on a nightly basis. This saves time and allows you to get back to what you do best - run your business. To get started, visit our installation videos: 
+
+•    QuickBooks Online: https://youtu.be/1sdx30bJHFE
+•    QuickBooks Desktop: https://youtu.be/P7g0EYjTcjg
+
+Here's what a couple of Clover customers are saying:
+
+“The time we've gained back has allowed us to increase sales over 25% each quarter.” – Little Jenna's Grooming
+
+""I used to spend hours on my books. Thanks to Commerce Sync, I now spend that time with my customers."" – Tifa Chocolate and Gelato
+
+Commerce Sync automates your bookkeeping by transferring your daily sales as a single entry into QuickBooks Online, QuickBooks Desktop or Xero. Additional features include:
+
+•    Support for multiple locations into the same or separate QuickBooks accounts
+•    Sales by Category: transfer into distinct income accounts based on your categories or labels in Clover
+•    Payment methods: each tender you accept (cash, credit, etc.) is tracked with each sale
+•    Tax: including single, combined and multiple rates / jurisdictions
+•    Historical Transfer: https://commercesync.com/historical-transfer
+•    Automated reconciliation of credit card settlement, including ""After Hours"" support (for businesses open after midnight) 
+
+We also transfer tips, discounts refunds & more - great for restaurants, retail stores and service providers.
+
+Commerce Sync works with all Clover devices: Clover Station Pro, Clover Station (Classic and 2018), Clover Mini (original and 2018), Clover Mobile, Clover Flex and Clover Go. Commerce Sync also works with all Clover plans: Register, Register Lite and Payments Plus.",,app,https://www.clover.com/appmarket/apps/EYKBJ4X083XYG,https://www.clover.com/v2/image/CommerceSYNC-Icon200x200_2601983832794088905_80x80.png,,,,,"Must-Have Apps,Save on Business Expenses","clover,quickbooks,transfer,including,https",,,,,,,,
+products_25,product,Round Up for Schools,"Round Up for Schools is the #1 way to engage your customers, support a local public school, and grow awareness for your business, all for FREE – no cost or hassle for you.
+
+The app seamlessly integrates into the Clover check-out experience, and allows your customers to round up their purchase to the nearest dollar. When your customers round up, the donation goes to support a classroom request from a local teacher on DonorsChoose, the nation’s top-rated charity for giving to public schools. These donations help provide books, art supplies, field trips, and materials that students in your community need to learn. 
+
+Teachers will be notified that your business has supported their classroom, and you’ll receive thank you notes from the students and teachers you’ve helped.
+
+With set-up taking less than a minute, Round Up for Schools is the simplest, most effective way to show your customers and community that you care. 
+
+
+
+Because we encourage teachers to promote the merchant supporting their school, we are not able to accept merchants whose primary products cannot be sold to children or promoted in a public school, including:
+
+• Tobacco, vaping, or marijuana merchants
+• Establishments that exclusively sell alcoholic beverages
+• Gun and ammunition shops
+• Adult entertainment
+• Tattoo parlors
+• Gambling establishments
+• Political or religious entities
+
+For questions about participating in the Round Up for Schools program, please email clover@donorschoose.org.",,app,https://www.clover.com/appmarket/apps/4JFMAZ37NXEPM,https://www.clover.com/v2/image/xxhdpi.png_en_US_4482435457684770184_80x80.png,,,,,"Fundraising,New & Notable","merchants,clover,teachers,school,establishments",,,,,,,,
+products_26,product,Sell Online,"Quickly take your business online with Ecwid! If you want to create an online store for your retail business, set up online ordering for your restaurant, or sell online gift cards, Ecwid has you covered.
+
+Whether you need a website or already have one, you can easily create a free website with one of Ecwid’s dozens of design templates, or add your store to ANY existing website including Wix, GoDaddy, WordPress and more.
+
+Get started in a few simple steps, and connect your Clover POS to automatically sync your products, inventory, orders, and more. 
+
+You'll be able to manage all of your online and in-person transactions easily, directly from your Clover POS.
+
+Make it easy for your customers to shop online and pick up in store with features like order pick-up and order ahead - with no additional fees.
+
+Connect your store to social networks like Facebook and Instagram as well as marketplaces like Amazon and eBay, and any website or blog so you can reach customers wherever they are shopping.
+
+With easy-to-use marketing tools like Google and Facebook advertising, you can grow your business fast.
+
+Start for FREE and build your online catalog, then upgrade to a premium plan to enable checkout.",,app,https://www.clover.com/appmarket/apps/7Z3PJ28D6XAEP,https://www.clover.com/v2/image/SellOnline_en_US_1466246266997955483_80x80.png,,,,,Sell Online,"like order,business online,easily",,,,,,,,
+products_27,product,Stock,"The Stock app enables you to track product quantity and purchase orders. It shows you the available quantity, expiration date, and sales history for each product.
+
+Use the Stock app to:
+. Monitor the current stock count of products.
+. Create and edit purchase orders.
+. Receive purchase order by scanner.
+. Record adjustments for a product (ex. breakages, loss).
+. Download various reports.
+. Track stock count by Ingredients.
+. Manage vendors.
+. Reconcile stock count.
+. Reorder threshold and order guide.
+. Auto price adjustment by price margin.
+. Check availability at other stores. *
+. Transfer stock to other store. *
+. Syncs daily revenue, cost, discount, tax to QuickBooks Online. +
+
+The Stock app is integrated with the rest of your information in Clover.
+
+You may initialize the Stock app by simply importing your Stock count from Clover!
+
+* Requires Multi Store Reporting app.
++ Requires Advanced plan.",,app,https://www.clover.com/appmarket/apps/HXA9X1EFNBVA8,https://www.clover.com/v2/image/003_Clover_StockIcon_3508085089081735823_80x80.png,,,,,Organize Inventory,"stock app,products,requires,store",,,,,,,,
+products_28,product,Time Clock,"Homebase is the #1 Free Clover solution to help you manage your employees. 
+
+We work hard to make your work easier by helping you:
+
+Track Time & Simplify Payroll:   Track employee hours & overtime across all locations, prevent early clock-ins from any Clover device and easily export to payroll.
+Employee Scheduling:   Build a schedule with just a few clicks. See labor costs, weather forecasts, and employee availability all in one place.
+Hiring:   In less than 60 seconds, post a job to the top online job boards for free. Easily manage all your candidates and scheduling in one location.
+Team Communication:  Keep the whole team on the same page. Send schedules, shift reminders, and messages across the team to share information quickly.",,app,https://www.clover.com/appmarket/apps/79E83NSKV7TMC,https://www.clover.com/v2/image/homebase-timeclock-app-icon-200x2001x_4467546351414810920_80x80.png,,,,,"Must-Have Apps,Save on Business Expenses,Manage your Employees","employee,schedules,easily,clover,job",,,,,,,,
+products_29,product,Trezoro Loyalty + Rewards,"Retaining more customers is the easiest way to grow your business! The goal is to get your customers to come in more often. If you increased the average number of visits in a year by just 1, the positive impact on your revenue would be: Average Ticket Size x Number of enrolled customers (WOW!)
+
+HOW IT WORKS
+
+Sign up or search for customers with just their name, email address and/or phone number from your Clover device. They don't need to use an app, check in, text in or do anything else, this means you will have higher PARTICIPATION. It's easy for them and your employees! 
+
+Customers get notified by an email BRANDED TO YOUR BUSINESS or SMS text message of their balance and rewards. This will keep them ENGAGED.
+
+THIS PROGRAM IS SUITABLE FOR SINGLE OR MULTIPLE LOCATION MERCHANTS.
+
+Our 9 available and FULLY AUTOMATED reward types include:
+- Points Program
+- Punchcards
+- Sign Up Rewards
+- Birthday Rewards
+- Prepaid packages (example buy 10 classes/coffees/treatments in advance)
+- Club membership
+- Lost Customer Recovery
+- Sign Up Incentive
+- VIP Tiers
+
+Rewards can be free items, store credit ($ discounts), percentage discounts (e.g 20% off the next visit) or extra points.
+
+A small sample of other features you won't find elsewhere:
+-Exclude categories from earning points
+-Optionally enable access from a floating button
+-Optionally print points balance on receipt
+-Fully integrated with Clover Register, Customers and Tables apps
+-Android and IOS apps are available for customers to check-in or check their reward status.
+-We can help you switch from your existing rewards programs and move points (e.g Fivestars, Loyalzoo, Belly, Perka, AppCard, Promos) 
+
+If you are not sure if something is possible or have questions, CALL US! 90% of the time the answer is yes. We're here to help by live chat, phone (415-489-0903), or email (loyalty@trezoroloyalty.com) and our support is second to none!
+
+Our Frequently Asked Questions are here: https://help.trezoroloyalty.com",,app,https://www.clover.com/appmarket/apps/38NB0ETSWWP6C,https://www.clover.com/v2/image/logo-icon-200x200_5159104632254732459_80x80.png,,,,,Reach your Customers,"reward,points,customer,apps,optionally",,,,,,,,
+products_30,product,WiFi Marketing by VivaSpot,"VivaSpot is an intelligent marketing solution that automates location-based, text, email and social media marketing that increases web and foot traffic and saves you time, money and resources.
+
+NOW INCLUDES CONTACT TRACING
+
++	 Provide your customers with FREE WiFi at your location; Automatically market and push promotions to them.
++	 Personalize your WiFi login page with your logo, text and graphics
++	 Build and grow your customer email lists
++       Automatically integrates with CRM platforms such as MailChimp, Emma, Constant Contact
++       Captures mobile phone numbers and sends text messages with promotions and coupons
++	 Automatically send ""Thank You"" emails to customers after they leave
++	 Automatically send  ""Please Come Back"" emails to customers who have not returned.
++	 Deliver instant coupons to drive incremental revenue
++       Automatically send emails with coupons to customers to drive return traffic
++	 Collect instant feedback or send emails to customers asking for their feedback
++       Grow your social media presence on Facebook, Instagram, Twitter, Pinterest and Yelp 
+
+VivaSpot comes bundled with a suite of Agency Services for creating marketing content and managing monthly email and text message blasts to your customers.
+
+VivaSpot includes a FREE application for your Clover terminal for scanning coupons and collecting customer information. No app download required by your customers and you get visibility to all foot traffic in and around your store.  Access key results thru weekly email reports, Clover terminal, or from an online portal.
+
+VivaSpot includes a FREE plug ’n’ play Wi-Fi access point that is shipped FREE to your location.  Please note that Internet Service is NOT provided with this solution and must be available prior to activating the WiFi.  Make sure you open up your VivaSpot App - after downloading it - and register so we can send you the WiFi Unit.
+
+For other questions please call 855-383-4662 or email sales@vivaspot.com.",,app,https://www.clover.com/appmarket/apps/K8422RNDJQFH4,https://www.clover.com/v2/image/logo_200_jpeg_80x80.jpg,,,,,"Reach your Customers,New & Notable","vivaspot,emails,automatically market,free",,,,,,,,
